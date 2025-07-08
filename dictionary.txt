@@ -1,0 +1,52 @@
+apple,a fruit,fruit|pome,vegetable
+ball,a round object used in games,sphere|orb,cube
+cat,a small domesticated carnivorous mammal,feline|kitty,dog
+dog,a domesticated carnivorous mammal,canine|puppy,cat
+elephant,a large herbivorous mammal with a trunk,pachyderm|jumbo,mouse
+fish,a limbless cold-blooded vertebrate animal that lives in water,marine|aquatic,terrestrial
+goat,a hardy domesticated ruminant animal,caprine|billy,sheep
+hat,a head covering,cap|bonnet,scarf
+ice,frozen water,solid|crystal,liquid
+jam,a sweet spread made from fruit,conserve|jelly,peanut butter
+kite,a toy consisting of a light frame with thin material stretched over it,flyer|glider,rock
+lamp,a device for giving light,light|lantern,darkness
+moon,the natural satellite of the Earth,lunar|satellite,earth
+nose,the part of the face that contains the nostrils,olfactory|sniffer,mouth
+owl,a nocturnal bird of prey,hoot|bird,daytime
+pen,a writing instrument,ink|ballpoint,pencil
+queen,the female ruler of an independent state,monarch|empress,king
+rain,precipitation in the form of liquid water drops,drizzle|shower,snow
+sun,the star at the center of our solar system,solar|star,moon
+tree,a perennial plant with an elongated stem,arboreal|wood,shrub
+umbrella,a device for protection against rain or sun,parasol|shade,exposure
+vase,a container used to hold flowers or for decoration,jar|pot,box
+wind,the natural movement of air,blow|gust,calm
+xylophone,a musical instrument,percussion|marimba,piano
+yarn,a long continuous length of interlocked fibers,thread|wool,rope
+zebra,a wild African horse with black-and-white stripes,equine|striped,horse
+book,a set of written, printed, or blank pages fastened together,volume|tome,article
+car,a vehicle that runs on roads,automobile|vehicle,bike
+door,a movable barrier used to close off an entrance,portal|gate,window
+egg,the round or oval object laid by a female bird,ovum|shell,chick
+fork,a utensil with sharp tines for eating or serving food,prong|spork,knife
+glass,a hard, brittle substance made from sand,transparent|pane,plastic
+hammer,a tool with a heavy head and a handle,mallet|sledge,anvil
+iron,a strong, hard magnetic metal,ferrous|steel,aluminum
+jacket,a short coat,blazer|windbreaker,coat
+key,a small metal object used to open locks,unlock|access,lock
+lion,a large African carnivorous mammal,panthera|king of the jungle,tiger
+mouse,a small rodent,rat|mice,cat
+notebook,a book of blank or ruled pages for writing notes,journal|diary,tablet
+orange,a citrus fruit,fruit|citrus,apple
+piano,a large keyboard musical instrument,grand|upright,organ
+quilt,a bed covering made of two layers of fabric,comforter|duvet,blanket
+rose,a type of flowering shrub,flower|blossom,thorn
+ship,a large vessel for transporting people or goods by sea,boat|vessel,submarine
+table,a piece of furniture with a flat top and legs,desk|counter,chair
+violin,a stringed musical instrument,fiddle|string,harp
+water,a colorless, transparent, odorless liquid,liquid|aqua,ice
+x-ray,a form of electromagnetic radiation,imaging|radiography,ultrasound
+yacht,a medium-sized sailboat,boat|vessel,ship
+zoo,a place where animals are kept for public display,menagerie|wildlife park,circus
+anupam,unique,uncommon|uncomparable|ddifferent,common
+good,nice,nice|liked|kindheated,bad|dislikable|cruel
